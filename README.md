@@ -12,9 +12,7 @@ https://github.com/P3TERX/aria2.sh
 
 CentOS 6+ / Debian 6+ / Ubuntu 14.04+
 
-## 架构支持
-
-x86_64 / i386 / ARM64 / ARM32v7 / ARM32v6
+## 自动上传
 
 ## 使用说明
 
